@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MagicIndecator.iml" filepath="$PROJECT_DIR$/MagicIndecator.iml" />
       <module fileurl="file://$PROJECT_DIR$/MagicIndicator.iml" filepath="$PROJECT_DIR$/MagicIndicator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/magicindicator/magicindicator.iml" filepath="$PROJECT_DIR$/magicindicator/magicindicator.iml" />
